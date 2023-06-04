@@ -1,5 +1,15 @@
 #!/bin/bash
 
+################################################################################
+# Nombre del script: gravar_iso.sh
+# Descripción: Este script se utiliza para eliminar directorio de forma segura
+# Autor: Jorge Giovannelli
+# Fecha: 4 de junio de 2023
+# Versión: 1.0
+# Licencia: Licencia Pública General de GNU (GNU GPL)
+################################################################################
+
+
 grabar_iso() {
   iso_nombre="$1"
   unidad_destino="$2"
