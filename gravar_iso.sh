@@ -2,7 +2,7 @@
 
 ################################################################################
 # Nombre del script: gravar_iso.sh
-# Descripción: Este script se utiliza para eliminar directorio de forma segura
+# Descripción: Script para grabar imagen ISO en una unidad
 # Autor: Jorge Giovannelli
 # Fecha: 4 de junio de 2023
 # Versión: 1.0
